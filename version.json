@@ -1,17 +1,18 @@
-
 {
   "latestVersion": "1.0.1",
   "latestBuild": 2,
   "minSupportedBuild": 1,
   "apkUrl": "https://github.com/JoshDumadapat/RentEaseApk/releases/latest/download/Renteaseph.apk",
   "notes": {
-    "_comment": "Add release changes to the appropriate arrays. Leave an array empty [] if there are no changes.",
     "features": [
-      "Added new UI for the update flow."
+      "In-app notification center alerts for updates",
+      "Interactive centered release notes dialog",
+      "Sign-in screen update prompt",
+      "Auto-dismissing update banner after 30 seconds"
     ],
     "fixes": [
-      "Fixed the update banner.",
-      "Resolved the Google Sign-in bug."
+      "Fixed Google Sign-In authentication error on release builds",
+      "Improved overall app stability and navigation"
     ]
   }
 }
