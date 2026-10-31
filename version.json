@@ -1,13 +1,18 @@
 {
-  "latestVersion": "1.0.5",
-  "latestBuild": 6,
+  "latestVersion": "1.0.6",
+  "latestBuild": 7,
   "minSupportedBuild": 1,
   "apkUrl": "https://github.com/JoshDumadapat/RentEaseApk/releases/latest/download/Renteaseph.apk",
   "notes": {
-    "features": [],
+    "features": [
+      "Owners can verify their ID with a quick scan and selfie",
+      "Owners can show their business permit and ownership document on their profile",
+      "Tenants can check an owner's business on DTI from their profile",
+      "Create listing now has step-by-step tips and a Tagalog option"
+    ],
     "fixes": [
       "Fixed a blank screen when going back during tenant setup",
-      "Added a way to switch accounts during tenant setup"
+      "You can now switch accounts during tenant and owner setup"
     ]
   }
 }
