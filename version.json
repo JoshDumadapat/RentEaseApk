@@ -1,12 +1,13 @@
 {
-  "latestVersion": "1.0.4",
-  "latestBuild": 5,
+  "latestVersion": "1.0.5",
+  "latestBuild": 6,
   "minSupportedBuild": 1,
   "apkUrl": "https://github.com/JoshDumadapat/RentEaseApk/releases/latest/download/Renteaseph.apk",
   "notes": {
     "features": [],
     "fixes": [
-      "Fixed a blank screen when going back during tenant setup"
+      "Fixed a blank screen when going back during tenant setup",
+      "Added a way to switch accounts during tenant setup"
     ]
   }
 }
