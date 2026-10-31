@@ -1,19 +1,12 @@
 {
-  "latestVersion": "1.0.3",
-  "latestBuild": 4,
+  "latestVersion": "1.0.4",
+  "latestBuild": 5,
   "minSupportedBuild": 1,
   "apkUrl": "https://github.com/JoshDumadapat/RentEaseApk/releases/latest/download/Renteaseph.apk",
   "notes": {
-    "features": [
-      "Update alerts now appear in your Activity notifications",
-      "New release notes pop-up shows what changed in each version",
-      "Update reminder on the sign-in screen",
-      "Update banner hides itself after 30 seconds"
-    ],
+    "features": [],
     "fixes": [
-      "Fixed Google Sign-In failing on the installed app",
-      "Fixed a sign-in redirect problem",
-      "Smoother navigation and better stability"
+      "Fixed a blank screen when going back during tenant setup"
     ]
   }
 }
