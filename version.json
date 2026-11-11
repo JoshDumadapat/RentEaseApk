@@ -1,17 +1,20 @@
 {
-  "latestVersion": "1.0.8",
-  "latestBuild": 9,
+  "latestVersion": "1.0.9",
+  "latestBuild": 10,
   "minSupportedBuild": 1,
   "apkUrl": "https://github.com/JoshDumadapat/RentEaseApk/releases/latest/download/Renteaseph.apk",
   "notes": {
     "features": [
-      "Owners can show their business permit and ownership document on their profile",
-      "Tenants can check an owner's business on DTI from their profile",
-      "Create listing now has step-by-step tips and a Tagalog option"
+      "Payment breakdown on property details",
+      "Owners can share their credentials during verification",
+      "Tagalog guide in the listing wizard",
+      "Updated map view design"
     ],
     "fixes": [
-      "Fixed a blank screen when going back during tenant setup",
-      "You can now switch accounts during tenant and owner setup"
+      "Better location picker and address lookup",
+      "Refined create-listing wizard and property manager",
+      "Updated privacy notice",
+      "Polished property detail and inquiry screens"
     ]
   }
 }
