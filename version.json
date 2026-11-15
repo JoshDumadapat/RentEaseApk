@@ -1,20 +1,18 @@
 {
-  "latestVersion": "1.0.9",
-  "latestBuild": 10,
+  "latestVersion": "1.0.10",
+  "latestBuild": 11,
   "minSupportedBuild": 1,
   "apkUrl": "https://github.com/JoshDumadapat/RentEaseApk/releases/latest/download/Renteaseph.apk",
   "notes": {
     "features": [
-      "Payment breakdown on property details",
-      "Owners can share their credentials during verification",
-      "Tagalog guide in the listing wizard",
-      "Updated map view design"
+      "Rent and security deposit now start at ₱1,000. Leave the deposit blank if there isn't one.",
+      "Clearer error messages that appear right under the field and clear as you type.",
+      "Sign-in and profile editing now show exactly which field needs fixing."
     ],
     "fixes": [
-      "Better location picker and address lookup",
-      "Refined create-listing wizard and property manager",
-      "Updated privacy notice",
-      "Polished property detail and inquiry screens"
+      "Tapping a button twice no longer sends or saves anything twice.",
+      "Messages stay on screen longer and no longer pile up.",
+      "Failure messages now tell you what to do next."
     ]
   }
 }
