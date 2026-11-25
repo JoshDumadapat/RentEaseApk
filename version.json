@@ -1,18 +1,21 @@
 {
-  "latestVersion": "1.0.10",
-  "latestBuild": 11,
+  "latestVersion": "1.0.11",
+  "latestBuild": 12,
   "minSupportedBuild": 1,
   "apkUrl": "https://github.com/JoshDumadapat/RentEaseApk/releases/latest/download/Renteaseph.apk",
   "notes": {
     "features": [
-      "Rent and security deposit now start at ₱1,000. Leave the deposit blank if there isn't one.",
-      "Clearer error messages that appear right under the field and clear as you type.",
-      "Sign-in and profile editing now show exactly which field needs fixing."
+      "Tenants see why a place suits them and how it was ranked",
+      "Move-in total, distance, curfew and gender policy shown up front",
+      "Priority sliders now balance themselves to 100%",
+      "Owners see unanswered inquiries on their home screen",
+      "Clearer removal and verification messages for owners",
+      "New bottom menu and easier-to-read screens"
     ],
     "fixes": [
-      "Tapping a button twice no longer sends or saves anything twice.",
-      "Messages stay on screen longer and no longer pile up.",
-      "Failure messages now tell you what to do next."
+      "Added minimum amounts for monthly rent and security deposit",
+      "More consistent error and confirmation messages",
+      "Going back during setup now asks before signing you out"
     ]
   }
 }
